@@ -1,0 +1,3 @@
+This is were the graphs are generated. 
+It MUST be apache-writtable in order to generate the .gv files and then the .jpg graph files.
+It also MUST be web-accesible in order to be able to provide valid URLs to the Telegram Bot api.
