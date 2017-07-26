@@ -6,7 +6,7 @@ require_once("lib/db.php");
 $token = "";
 $web_url = "https://your.server/path_to_bot";
 
-//Database credentials. Not used yet.
+//Database credentials.
 $db_name = "";
 $db_user = "";
 $db_pass = "";
