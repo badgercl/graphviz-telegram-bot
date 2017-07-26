@@ -1,4 +1,6 @@
 # Inline Telegram bot for generating directed graphs
+This bot is live at https://t.me/graphviz_bot
+
 
 ## Requirements
 
