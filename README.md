@@ -23,4 +23,6 @@ This bot is live at https://t.me/graphviz_bot
 # TODO
 * Improve start method
 * Improve logs
-* Provide examples
+* Provide examples as /help command
+* Add other graphs options (e.g. dot)
+* Refactor code to make easier to add other startegies
